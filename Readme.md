@@ -1,11 +1,11 @@
-###Hello There.
+### Hello There.
 
-##Global Variable Access
+## Global Variable Access
 
 This repo contains the modules that will be able to access a global declared variable from a file to 2 different class
 and update the variable value and yet retain it in main file.
 
-###How To Run..
+### How To Run..
 
 Just run the main.py file to get the output.
 
